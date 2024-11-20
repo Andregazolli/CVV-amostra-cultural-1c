@@ -30,3 +30,17 @@ div {
     font-size: 100px;
 
 }
+
+section {
+background-color: grey;
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+}
+
+.chamada-texto {
+margin-right: 100px;
+
+
+}
