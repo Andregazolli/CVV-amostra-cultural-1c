@@ -1,17 +1,18 @@
 body{
     background: black;
-    color: rgb(255, 0, 200);
+    color: skyblue
     margin: 0;
     padding-bottom: 50px;
 }
 
 h1{
-    color: orangered;
-    font-size: 50px;
+    color: skyblue;
+    font-size: 40px;
+    margin: center;
 }
 
 p{
-    color: orangered;
+    color: skyblue;
     font-size: 50px;
 }
 
