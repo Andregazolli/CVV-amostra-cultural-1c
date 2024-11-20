@@ -1,16 +1,1 @@
 
-body {
-    background: black;
-    color: rgb(255, 0, 200);
-    margin: 0;
-    padding-bottom: 50px;
-}
-
-header {
-
-    font-size: 50px;
-    border-bottom: solid 3px purple;
-    margin: 30;
-    margin-left: 3;
-    margin-right: 80%;
-}
