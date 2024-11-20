@@ -15,10 +15,10 @@ p{
 }
 
 header {
-    background-color: skyblue;
+    background-color: black;
     font-size: 50px;
     border-bottom: solid 3px skyblue;
-    margin: 30;
-    margin-left: 3;
+    margin: center;
+    margin-left: 0;
     margin-right: 80%;
 }
