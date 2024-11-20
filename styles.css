@@ -1,7 +1,6 @@
 body{
     background: black;
     color: skyblue
-    margin: 0;
     padding-bottom: 50px;
 }
 
@@ -13,12 +12,13 @@ h1{
 
 p{
     color: skyblue;
-    font-size: 50px;
+    font-size: 10px;
 }
 
 header {
+    background-color: skyblue;
     font-size: 50px;
-    border-bottom: solid 3px purple;
+    border-bottom: solid 3px skyblue;
     margin: 30;
     margin-left: 3;
     margin-right: 80%;
