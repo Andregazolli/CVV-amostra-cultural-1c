@@ -20,5 +20,15 @@ header {
     border-bottom: solid 3px skyblue;
     margin: center;
     margin-left: 0;
-    margin-right: 20%%;
+    margin-right: 20%%
+}
+
+p {
+    font-size: 50px;
+
+}
+
+div {
+    font-size: 50px;
+
 }
