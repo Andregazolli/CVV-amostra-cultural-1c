@@ -29,9 +29,7 @@ p {
 div {
     font-size: 100px;
     margin: 25;
-    width: 55%;
-    height: 80%;
-    margin-left: 400;
+    
 }
 
 section {
@@ -97,4 +95,12 @@ margin-top: 20px;
 justify-content: center;
 
 
+}
+
+element.style {
+    width: 55%;
+    height: 80%;
+    margin-left: 400;
+
+    
 }
