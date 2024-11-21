@@ -28,7 +28,7 @@ p {
 
 div {
     font-size: 100px;
-
+    margin: 25;
 }
 
 section {
@@ -41,7 +41,7 @@ justify-content: center;
 
 .chamada-texto {
 margin-right: 100px;
-
+margin: 25;
 
 }
 
