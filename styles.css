@@ -102,9 +102,9 @@
     }
     
     iframe {
-        width: 60%;
-        height: 60%;
-        margin-left: 400;
+        width: 1000;
+        height: 798;
+        margin-right: 10;
     }
 
 /* Estilo para celulares (telas menores que 768px) */
@@ -142,8 +142,3 @@
     }
 
 }
-
-    
-
-    
-        
