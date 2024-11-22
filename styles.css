@@ -105,6 +105,62 @@ iframe {
     
 }
 
+/* Estilo para PCs (telas maiores que 768px) */
+@media screen and (min-width: 769px) {
+    body {
+        font-size: 18px;
+    }
+
+    .chamada {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .chamada-texto {
+        max-width: 50%;
+        text-align: left;
+    }
+
+    iframe {
+        width: 500px;
+        height: 300px;
+    }
+
+    img {
+        width: 200px;
+    }
+}
+
+/* Estilo para celulares (telas menores que 768px) */
+@media screen and (max-width: 768px) {
+    body {
+        font-size: 16px;
+    }
+
+    header {
+        font-size: 20px;
+    }
+
+    .chamada {
+        display: block;
+        text-align: center;
+    }
+
+    .chamada-texto {
+        margin: 0;
+        text-align: center;
+    }
+
+    iframe {
+        width: 90%;
+        height: auto;
+    }
+
+    img {
+        width: 120px;
+    }
+}
     
     
         
