@@ -37,7 +37,7 @@
     }
     
     section {
-    background-color: grey;
+    background-color: black;
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -92,7 +92,7 @@
     
     .chamada {
     display: contents;
-    background-color: grey;
+    background-color: black;
     padding-bottom: 80px;
     padding-top: 70px;
     margin-top: 20px;
