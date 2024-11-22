@@ -132,9 +132,9 @@
     }
 
     iframe {
-        width: 300;
-        height: 300;
-        margin-left: 50%;
+        width: 100%; /* Ocupa toda a largura disponível */
+        height: auto; /* Altura proporcional */
+        max-width: 400px; /* Limita a largura máxima */
     }
 
     img {
@@ -142,3 +142,4 @@
     }
 
 }
+
